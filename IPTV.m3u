@@ -178,8 +178,8 @@ http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacional", Chilevisión_SINPROBAR
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Chilevisión_SINPROBAR
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional", La Red
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
