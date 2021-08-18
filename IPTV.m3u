@@ -177,7 +177,8 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+blob:https://mdstrm.com/8cd567d5-c263-41ce-ab08-25fdd76a5a21
+
 #EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacional", Chilevisión_SINPROBAR
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
@@ -206,10 +207,8 @@ https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", 24 Horas_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/513394078.png" group-title="Noticias", BBC World News
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-
+#EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", BBC World News_SINPROBAR
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
