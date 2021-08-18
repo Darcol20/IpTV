@@ -17,10 +17,3 @@ http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-name="Camara de Diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacionales", Camara de Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias", 24 Horas
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
-
-#EXTINF:-1 tvg-id="84048" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518774546.png" group-title="Nacionales", Canal 13
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
