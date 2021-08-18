@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="84048" tvg-name="Telecanal" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png" group-title="Canales Nacionales", Telecanal
+#EXTINF:-1 tvg-id="84048" tvg-name="Telecanal" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png" group-title="Nacionales", Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="84048" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="Canales Nacionales", La Red
+#EXTINF:-1 tvg-id="84048" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="Nacionales", La Red
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="84048" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="Canales Nacionales 2", TV+
+#EXTINF:-1 tvg-id="84048" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="Nacionales", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF:-1 tvg-id="84048" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518774546.png" group-title="Nacionales", Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
