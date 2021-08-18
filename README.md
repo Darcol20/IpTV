@@ -1,3 +1,5 @@
+Todo canal con el logo de Telecanal significa que no hay señal de TV
+
 # Lista Canales
 
 ## Cine & Series
