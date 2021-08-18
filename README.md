@@ -108,7 +108,6 @@
 - 24 Horas
 - BBC World News
 - CNN
-- CNN ALGO MAS
 - CNN Chile
+- CNN En Español
 - Fox News Channel
-![imagen](https://user-images.githubusercontent.com/31900333/129840565-208a406d-7341-468d-b537-c3b2cd13766c.png)
