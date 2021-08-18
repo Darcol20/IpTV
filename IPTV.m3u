@@ -219,5 +219,11 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="372" tvg-name="Fox News Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", Fox News Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="372" tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Chileiptv" , INT CBS News 
+#EXTINF:-1 tvg-id="372" tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Noticias" , CBS News 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Canal 9 Bio-Bio" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Nacional" , Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+
+#EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Nacional" , Antofagasta TV 
+https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
