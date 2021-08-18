@@ -134,8 +134,10 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Boomerang" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Boomerang_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Cartoon Networdk" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Cartoon Networdk_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Cartoon Networdk" tvg-logo="https://www.vtr.com/file/general/560362.png" group-title="Infantil", Cartoon Networdk
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
 #EXTINF:-1 tvg-id="10" tvg-name="Discovery Kids" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Discovery Kids_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Disney Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Disney Channel_SINPROBAR
