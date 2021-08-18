@@ -17,3 +17,6 @@ https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv
 
 #EXTINF:-1 tvg-id="84048" tvg-name="Chilevision" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacionales", Chilevision
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1 tvg-id="84048" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518774546.png" group-title="Nacionales", Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
