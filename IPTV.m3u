@@ -176,9 +176,8 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Cámada de diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de diputados
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacional", Canal 13_SINPROBAR
-https://cl-canal13-13now-live.ned.media/live.m3u8
-
+#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacional", Chilevisión_SINPROBAR
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
@@ -206,7 +205,7 @@ https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
 https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", 24 Horas_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", BBC World News_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
