@@ -1,102 +1,110 @@
 # Lista Canales
 
 ## Cine & Series
-- Star life
 - A&E
-- Comedy Central
-- Sony
-- WB
-- HBO
-- CineCanal
-- CineMax
-- TVN Series
-- Paramount Channel
-- FX
-- TCM
-- I-SAT
-- FXM
-- Space
-- TNT
-- Start Channel
+- A3Cine
 - A3S Atreseries
-- Investigation Discovery
 - AXN
 - Azteca Cinema
+- CineCanal
+- CineMax
+- Comedy Central
+- FX
+- FXM
+- Golden EDGE
+- HBO
+- HBO +
 - HBO Family
 - HBO Mundi
-- HBO2
-- HBO Signature
-- HBO +
-- HBO xtreme
 - HBO Pop
+- HBO Signature
+- HBO xtreme
+- HBO2
+- Investigation Discovery
+- I-SAT
 - LifeTime
+- Paramount Channel
+- Sony
+- Space
+- Star life
+- Start Channel
 - TBS veryfunny
-- A3Cine
-- Golden EDGE
+- TCM
+- TNT
+- TNT Series
+- WB
 ## Cultural
 - 13 Cable
+- Animal Planet
+- Artv
+- Discovery Channel
+- Discovery Science
+- EWTB
+- History
+- History2
 - Nat Geo Wild
 - National Geographic Channel
-- History
-- Artv
-- History2
-- Discovery Channel
-- Animal Planet
-- EWTB
 - TNE
-- Discovery Science
 - Tru TV
 ## Deporte
-- Fox Sport
-- TNT Sport3
-- Vive
-- ESPN2
 - ESPN
-- Fox Sport3
-- Teletrak TV
+- ESPN2
 - ESPN3
-- Turbo
+- Fox Sport
+- Fox Sport3
 - GOLTV **
+- Teletrak TV
+- TNT Sport3
+- Turbo
 - TyC Sports **
+- Vive
 ## Estilos & Tendencias
+- Cocina Viva
 - E
 - glitz
-- TLC
 - H&H Discovery
-- Cocina Viva
 - HGTV
+- TLC
 ## Infantil
-- Disney Jr
-- Disney Channel
-- Nickelodeon
-- Discovery Kids
+- Baby TV **
 - Boomerang
 - Cartoon Networdk
+- Discovery Kids
+- Disney Channel
+- Disney Jr
+- Disney XS
 - ETC TV
 - Nat Geo Kids
-- Disney XS
 - Nick Jr
-- Baby TV **
+- Nickelodeon
 - Tooncast **
 ## Internacional
-- DW
-- TV5Monde
-- Rai Italia
 - Canal de la estrellas
+- DW
+- Rai Italia
+- TV5Monde
 ## Musica
-- Zona Latina
-- Via X
+- HTV
 - MTV
 - MUCH
-- HTV
+- Via X
+- Zona Latina
 ## Nacional
+- Cámada de diputados
 - Mega +
 - TV Senado
-- Cámada de diputados
+- Canal 13
+- Chilevisión
+- TV +
+- TVN
+- La Red
+- Megavisión
+- Telecanal
+- UCV
 ## Noticias
 - 24 Horas
-- CNN Chile
 - BBC World News
 - CNN
 - CNN ALGO MAS
+- CNN Chile
 - Fox News Channel
