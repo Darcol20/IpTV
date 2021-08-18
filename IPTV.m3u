@@ -176,8 +176,8 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Cámada de diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de diputados
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518774546.png" group-title="Nacional", Canal 13_SINPROBAR
-http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Chilevisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
