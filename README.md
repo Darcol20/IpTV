@@ -31,7 +31,7 @@
 - TBS veryfunny
 - TCM
 - TNT
-- TNT Series
+- TVN Series
 - WB
 ## Cultural
 - 13 Cable
@@ -51,9 +51,12 @@
 - ESPN2
 - ESPN3
 - Fox Sport
+- Fox Sport2
 - Fox Sport3
 - GOLTV **
 - Teletrak TV
+- TNT Sport
+- TNT Sport2
 - TNT Sport3
 - Turbo
 - TyC Sports **
@@ -91,15 +94,15 @@
 - Zona Latina
 ## Nacional
 - Cámada de diputados
-- Mega +
-- TV Senado
 - Canal 13
 - Chilevisión
-- TV +
-- TVN
 - La Red
+- Mega +
 - Megavisión
 - Telecanal
+- TV +
+- TV Senado
+- TVN
 - UCV
 ## Noticias
 - 24 Horas
@@ -108,3 +111,4 @@
 - CNN ALGO MAS
 - CNN Chile
 - Fox News Channel
+![imagen](https://user-images.githubusercontent.com/31900333/129840565-208a406d-7341-468d-b537-c3b2cd13766c.png)
