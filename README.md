@@ -1,4 +1,4 @@
-# Lista VTR
+# Lista Canales
 
 ## Cine & Series
 - Star life
