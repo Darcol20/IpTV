@@ -1,208 +1,220 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=""30"" tvg-name=""A&E"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", A&E_SINPROBAR
+#EXTINF:-1 tvg-id="30" tvg-name="A&E" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", A&E_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""401"" tvg-name=""A3Cine"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", A3Cine_SINPROBAR
+#EXTINF:-1 tvg-id="401" tvg-name="A3Cine" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", A3Cine_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""58"" tvg-name=""A3S Atreseries"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", A3S Atreseries_SINPROBAR
+#EXTINF:-1 tvg-id="58" tvg-name="A3S Atreseries" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", A3S Atreseries_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""60"" tvg-name=""AXN"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", AXN_SINPROBAR
+#EXTINF:-1 tvg-id="60" tvg-name="AXN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", AXN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""67"" tvg-name=""Azteca Cinema"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Azteca Cinema_SINPROBAR
+#EXTINF:-1 tvg-id="67" tvg-name="Azteca Cinema" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Azteca Cinema_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""35"" tvg-name=""CineCanal"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", CineCanal_SINPROBAR
+#EXTINF:-1 tvg-id="35" tvg-name="CineCanal" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", CineCanal_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""36"" tvg-name=""CineMax"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", CineMax_SINPROBAR
+#EXTINF:-1 tvg-id="36" tvg-name="CineMax" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", CineMax_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""31"" tvg-name=""Comedy Central"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Comedy Central_SINPROBAR
+#EXTINF:-1 tvg-id="31" tvg-name="Comedy Central" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Comedy Central_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""50"" tvg-name=""FX"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", FX_SINPROBAR
+#EXTINF:-1 tvg-id="50" tvg-name="FX" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", FX_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""54"" tvg-name=""FXM"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", FXM_SINPROBAR
+#EXTINF:-1 tvg-id="54" tvg-name="FXM" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", FXM_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""407"" tvg-name=""Golden EDGE"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Golden EDGE_SINPROBAR
+#EXTINF:-1 tvg-id="407" tvg-name="Golden EDGE" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Golden EDGE_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""34"" tvg-name=""HBO"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO_SINPROBAR
+#EXTINF:-1 tvg-id="34" tvg-name="HBO" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""108"" tvg-name=""HBO +"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO +_SINPROBAR
+#EXTINF:-1 tvg-id="108" tvg-name="HBO +" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO +_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""104"" tvg-name=""HBO Family"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO Family_SINPROBAR
+#EXTINF:-1 tvg-id="104" tvg-name="HBO Family" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO Family_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""105"" tvg-name=""HBO Mundi"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO Mundi_SINPROBAR
+#EXTINF:-1 tvg-id="105" tvg-name="HBO Mundi" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO Mundi_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""110"" tvg-name=""HBO Pop"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO Pop_SINPROBAR
+#EXTINF:-1 tvg-id="110" tvg-name="HBO Pop" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO Pop_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""107"" tvg-name=""HBO Signature"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO Signature_SINPROBAR
+#EXTINF:-1 tvg-id="107" tvg-name="HBO Signature" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO Signature_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""109"" tvg-name=""HBO xtreme"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO xtreme_SINPROBAR
+#EXTINF:-1 tvg-id="109" tvg-name="HBO xtreme" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO xtreme_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""106"" tvg-name=""HBO2"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", HBO2_SINPROBAR
+#EXTINF:-1 tvg-id="106" tvg-name="HBO2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", HBO2_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""59"" tvg-name=""Investigation Discovery"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Investigation Discovery_SINPROBAR
+#EXTINF:-1 tvg-id="59" tvg-name="Investigation Discovery" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Investigation Discovery_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""53"" tvg-name=""I-SAT"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", I-SAT_SINPROBAR
+#EXTINF:-1 tvg-id="53" tvg-name="I-SAT" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", I-SAT_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""220"" tvg-name=""LifeTime"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", LifeTime_SINPROBAR
+#EXTINF:-1 tvg-id="220" tvg-name="LifeTime" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", LifeTime_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""44"" tvg-name=""Paramount Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Paramount Channel_SINPROBAR
+#EXTINF:-1 tvg-id="44" tvg-name="Paramount Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Paramount Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""32"" tvg-name=""Sony"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Sony_SINPROBAR
+#EXTINF:-1 tvg-id="32" tvg-name="Sony" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Sony_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""55"" tvg-name=""Space"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Space_SINPROBAR
+#EXTINF:-1 tvg-id="55" tvg-name="Space" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Space_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""29"" tvg-name=""Star life"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Star life_SINPROBAR
+#EXTINF:-1 tvg-id="29" tvg-name="Star life" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Star life_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""57"" tvg-name=""Start Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", Start Channel_SINPROBAR
+#EXTINF:-1 tvg-id="57" tvg-name="Start Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", Start Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""223"" tvg-name=""TBS veryfunny"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", TBS veryfunny_SINPROBAR
+#EXTINF:-1 tvg-id="223" tvg-name="TBS veryfunny" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", TBS veryfunny_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""52"" tvg-name=""TCM"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", TCM_SINPROBAR
+#EXTINF:-1 tvg-id="52" tvg-name="TCM" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", TCM_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""56"" tvg-name=""TNT"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", TNT_SINPROBAR
+#EXTINF:-1 tvg-id="56" tvg-name="TNT" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", TNT_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""40"" tvg-name=""TVN Series"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", TVN Series_SINPROBAR
+#EXTINF:-1 tvg-id="40" tvg-name="TVN Series" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", TVN Series_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""33"" tvg-name=""WB"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cine & Series"", WB_SINPROBAR
+#EXTINF:-1 tvg-id="33" tvg-name="WB" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", WB_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""27"" tvg-name=""13 Cable"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", 13 Cable_SINPROBAR
+#EXTINF:-1 tvg-id="27" tvg-name="13 Cable" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", 13 Cable_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""62"" tvg-name=""Animal Planet"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Animal Planet_SINPROBAR
+#EXTINF:-1 tvg-id="62" tvg-name="Animal Planet" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Animal Planet_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""43"" tvg-name=""Artv"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Artv_SINPROBAR
+#EXTINF:-1 tvg-id="43" tvg-name="Artv" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Artv_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""61"" tvg-name=""Discovery Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Discovery Channel_SINPROBAR
+#EXTINF:-1 tvg-id="61" tvg-name="Discovery Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Discovery Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""208"" tvg-name=""Discovery Science"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Discovery Science_SINPROBAR
+#EXTINF:-1 tvg-id="208" tvg-name="Discovery Science" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Discovery Science_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""68"" tvg-name=""EWTB"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", EWTB_SINPROBAR
+#EXTINF:-1 tvg-id="68" tvg-name="EWTB" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", EWTB_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""42"" tvg-name=""History"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", History_SINPROBAR
+#EXTINF:-1 tvg-id="42" tvg-name="History" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", History_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""51"" tvg-name=""History2"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", History2_SINPROBAR
+#EXTINF:-1 tvg-id="51" tvg-name="History2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", History2_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""38"" tvg-name=""Nat Geo Wild"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Nat Geo Wild_SINPROBAR
+#EXTINF:-1 tvg-id="38" tvg-name="Nat Geo Wild" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Nat Geo Wild_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""41"" tvg-name=""National Geographic Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", National Geographic Channel_SINPROBAR
+#EXTINF:-1 tvg-id="41" tvg-name="National Geographic Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", National Geographic Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""99"" tvg-name=""TNE"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", TNE_SINPROBAR
+#EXTINF:-1 tvg-id="99" tvg-name="TNE" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", TNE_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""211"" tvg-name=""Tru TV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Cultural"", Tru TV_SINPROBAR
+#EXTINF:-1 tvg-id="211" tvg-name="Tru TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Tru TV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""49"" tvg-name=""ESPN"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", ESPN_SINPROBAR
+#EXTINF:-1 tvg-id="49" tvg-name="ESPN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""48"" tvg-name=""ESPN2"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", ESPN2_SINPROBAR
+#EXTINF:-1 tvg-id="48" tvg-name="ESPN2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN2_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""153"" tvg-name=""ESPN3"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", ESPN3_SINPROBAR
+#EXTINF:-1 tvg-id="153" tvg-name="ESPN3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN3_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""45"" tvg-name=""Fox Sport"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Fox Sport_SINPROBAR
+#EXTINF:-1 tvg-id="45" tvg-name="Fox Sport" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""166"" tvg-name=""Fox Sport1"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Fox Sport1_SINPROBAR
+#EXTINF:-1 tvg-id="166" tvg-name="Fox Sport1" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport1_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""167"" tvg-name=""Fox Sport2"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Fox Sport2_SINPROBAR
+#EXTINF:-1 tvg-id="167" tvg-name="Fox Sport2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport2_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""151"" tvg-name=""Fox Sport3"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Fox Sport3_SINPROBAR
+#EXTINF:-1 tvg-id="151" tvg-name="Fox Sport3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport3_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""163"" tvg-name=""GOLTV **"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", GOLTV **_SINPROBAR
+#EXTINF:-1 tvg-id="163" tvg-name="GOLTV **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", GOLTV **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""152"" tvg-name=""Teletrak TV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Teletrak TV_SINPROBAR
+#EXTINF:-1 tvg-id="152" tvg-name="Teletrak TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Teletrak TV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""855"" tvg-name=""TNT Sport"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", TNT Sport_SINPROBAR
+#EXTINF:-1 tvg-id="855" tvg-name="TNT Sport" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""165"" tvg-name=""TNT Sport2"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", TNT Sport2_SINPROBAR
+#EXTINF:-1 tvg-id="165" tvg-name="TNT Sport2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport2_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""46"" tvg-name=""TNT Sport3"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", TNT Sport3_SINPROBAR
+#EXTINF:-1 tvg-id="46" tvg-name="TNT Sport3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport3_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""210"" tvg-name=""Turbo"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Turbo_SINPROBAR
+#EXTINF:-1 tvg-id="210" tvg-name="Turbo" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Turbo_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""164"" tvg-name=""TyC Sports **"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", TyC Sports **_SINPROBAR
+#EXTINF:-1 tvg-id="164" tvg-name="TyC Sports **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TyC Sports **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""47"" tvg-name=""Vive"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Deporte"", Vive_SINPROBAR
+#EXTINF:-1 tvg-id="47" tvg-name="Vive" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Vive_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""65"" tvg-name=""Cocina Viva"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", Cocina Viva_SINPROBAR
+#EXTINF:-1 tvg-id="65" tvg-name="Cocina Viva" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", Cocina Viva_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""28"" tvg-name=""E"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", E_SINPROBAR
+#EXTINF:-1 tvg-id="28" tvg-name="E" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", E_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""37"" tvg-name=""glitz"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", glitz_SINPROBAR
+#EXTINF:-1 tvg-id="37" tvg-name="glitz" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", glitz_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""63"" tvg-name=""H&H Discovery"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", H&H Discovery_SINPROBAR
+#EXTINF:-1 tvg-id="63" tvg-name="H&H Discovery" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", H&H Discovery_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""209"" tvg-name=""HGTV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", HGTV_SINPROBAR
+#EXTINF:-1 tvg-id="209" tvg-name="HGTV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", HGTV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""39"" tvg-name=""TLC"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Estilos & Tendencias"", TLC_SINPROBAR
+#EXTINF:-1 tvg-id="39" tvg-name="TLC" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Estilos & Tendencias", TLC_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""251"" tvg-name=""Baby TV **"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Baby TV **_SINPROBAR
+#EXTINF:-1 tvg-id="251" tvg-name="Baby TV **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Baby TV **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""11"" tvg-name=""Boomerang"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Boomerang_SINPROBAR
+#EXTINF:-1 tvg-id="11" tvg-name="Boomerang" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Boomerang_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""12"" tvg-name=""Cartoon Networdk"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Cartoon Networdk_SINPROBAR
+#EXTINF:-1 tvg-id="12" tvg-name="Cartoon Networdk" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Cartoon Networdk_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""10"" tvg-name=""Discovery Kids"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Discovery Kids_SINPROBAR
+#EXTINF:-1 tvg-id="10" tvg-name="Discovery Kids" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Discovery Kids_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""8"" tvg-name=""Disney Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Disney Channel_SINPROBAR
+#EXTINF:-1 tvg-id="8" tvg-name="Disney Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Disney Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""7"" tvg-name=""Disney Jr"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Disney Jr_SINPROBAR
+#EXTINF:-1 tvg-id="7" tvg-name="Disney Jr" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Disney Jr_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""13"" tvg-name=""Disney XD"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Disney XD_SINPROBAR
+#EXTINF:-1 tvg-id="13" tvg-name="Disney XD" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Disney XD_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""66"" tvg-name=""ETC TV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", ETC TV_SINPROBAR
+#EXTINF:-1 tvg-id="66" tvg-name="ETC TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", ETC TV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""64"" tvg-name=""Nat Geo Kids"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Nat Geo Kids_SINPROBAR
+#EXTINF:-1 tvg-id="64" tvg-name="Nat Geo Kids" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nat Geo Kids_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""112"" tvg-name=""Nick Jr"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Nick Jr_SINPROBAR
+#EXTINF:-1 tvg-id="112" tvg-name="Nick Jr" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nick Jr_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""9"" tvg-name=""Nickelodeon"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Nickelodeon_SINPROBAR
+#EXTINF:-1 tvg-id="9" tvg-name="Nickelodeon" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nickelodeon_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""254"" tvg-name=""Tooncast **"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Infantil"", Tooncast **_SINPROBAR
+#EXTINF:-1 tvg-id="254" tvg-name="Tooncast **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Tooncast **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""358"" tvg-name=""Canal de la estrellas"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Internacional"", Canal de la estrellas_SINPROBAR
+#EXTINF:-1 tvg-id="358" tvg-name="Canal de la estrellas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Internacional", Canal de la estrellas_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""352"" tvg-name=""DW"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Internacional"", DW_SINPROBAR
+#EXTINF:-1 tvg-id="352" tvg-name="DW" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Internacional", DW_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""354"" tvg-name=""Rai Italia"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Internacional"", Rai Italia_SINPROBAR
+#EXTINF:-1 tvg-id="354" tvg-name="Rai Italia" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Internacional", Rai Italia_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""353"" tvg-name=""TV5Monde"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Internacional"", TV5Monde_SINPROBAR
+#EXTINF:-1 tvg-id="353" tvg-name="TV5Monde" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Internacional", TV5Monde_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""315"" tvg-name=""HTV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Musica"", HTV_SINPROBAR
+#EXTINF:-1 tvg-id="315" tvg-name="HTV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Musica", HTV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""25"" tvg-name=""MTV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Musica"", MTV_SINPROBAR
+#EXTINF:-1 tvg-id="25" tvg-name="MTV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Musica", MTV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""111"" tvg-name=""MUCH"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Musica"", MUCH_SINPROBAR
+#EXTINF:-1 tvg-id="111" tvg-name="MUCH" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Musica", MUCH_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""24"" tvg-name=""Via X"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Musica"", Via X_SINPROBAR
+#EXTINF:-1 tvg-id="24" tvg-name="Via X" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Musica", Via X_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""23"" tvg-name=""Zona Latina"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Musica"", Zona Latina_SINPROBAR
+#EXTINF:-1 tvg-id="23" tvg-name="Zona Latina" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Musica", Zona Latina_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""73"" tvg-name=""Cámada de diputados"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Cámada de diputados_SINPROBAR
+
+#EXTINF:-1 tvg-id="73" tvg-name="Cámada de diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de diputados
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""22"" tvg-name=""Canal 13"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Canal 13_SINPROBAR
+#EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Chilevisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""21"" tvg-name=""Chilevisión"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Chilevisión_SINPROBAR
+
+#EXTINF:-1 tvg-id="17" tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional", La Red
+https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="Mega +" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Mega +_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""17"" tvg-name=""La Red"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", La Red_SINPROBAR
+#EXTINF:-1 tvg-id="20" tvg-name="Megavisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Megavisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""26"" tvg-name=""Mega +"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Mega +_SINPROBAR
+
+#EXTINF:-1 tvg-id="16" tvg-name="Telecanal" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""20"" tvg-name=""Megavisión"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Megavisión_SINPROBAR
+
+#EXTINF:-1 tvg-id="18" tvg-name="TV +" tvg-logo="https://www.vtr.com/file/general/518992871.png" group-title="Nacional", TV +
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="TV Senado" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", TV Senado_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""16"" tvg-name=""Telecanal"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", Telecanal_SINPROBAR
+
+#EXTINF:-1 tvg-id="19" tvg-name="TVN" tvg-logo="https://www.vtr.com/file/general/518970317.png" group-title="Nacional", TVN
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Nacional", UCV
+https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", 24 Horas_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""18"" tvg-name=""TV +"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", TV +_SINPROBAR
+#EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", BBC World News_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""72"" tvg-name=""TV Senado"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", TV Senado_SINPROBAR
+#EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""19"" tvg-name=""TVN"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", TVN_SINPROBAR
+
+#EXTINF:-1 tvg-id="15" tvg-name="CNN Chile" tvg-logo="https://www.vtr.com/file/general/519007859.png" group-title="Noticias", CNN Chile
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="CNN En Español" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN En Español_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""4"" tvg-name=""UCV"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Nacional"", UCV_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""14"" tvg-name=""24 Horas"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", 24 Horas_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""69"" tvg-name=""BBC World News"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", BBC World News_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""351"" tvg-name=""CNN"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", CNN_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""15"" tvg-name=""CNN Chile"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", CNN Chile_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""71"" tvg-name=""CNN En Español"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", CNN En Español_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""372"" tvg-name=""Fox News Channel"" tvg-logo=""https://www.vtr.com/file/general/518992875.png"" group-title=""Noticias"", Fox News Channel_SINPROBAR
+#EXTINF:-1 tvg-id="372" tvg-name="Fox News Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", Fox News Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
