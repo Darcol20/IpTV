@@ -227,3 +227,39 @@ http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
 #EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Nacional" , Antofagasta TV 
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Funcionando" , Ues TV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Funcionando" , Pingüino TV 
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Funcionando" , Carolina TV 
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Funcionando" , TVU Concepción 
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="RT Español" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Funcionando" , RT Español 
+https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Genial Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1521688260.jpg" group-title="Funcionando" , Genial Tv 
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Funcionando" , MusicTop
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="CGTN Español" tvg-logo="http://chileiptv.cl/img/logos/file_1522636293.png" group-title="Funcionando" , CGTN Español 
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="RedBull TV" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Funcionando" , RedBull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="IPe" tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Funcionando" , IPe 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="ExtremaTv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Funcionando" , ExtremaTv 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Funcionando" , VC Online
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
