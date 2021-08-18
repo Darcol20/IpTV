@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="84048" tvg-name="Disney Jr." tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Disney Jr.
+#EXTINF:-1 tvg-id="84048" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", Disney Jr.
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="84048" tvg-name="Disney." tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Disney
