@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="84048" tvg-name="Disney Jr." tvg-logo="https://www.vtr.com/file/general/519006297.png", Disney Jr.
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="84048" tvg-name="Disney." tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Disney
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="84048" tvg-name="Telecanal" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png" group-title="Canales Nacionales", Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
@@ -14,6 +8,3 @@ https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="84048" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="Canales Nacionales 2", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 tvg-id="84048" tvg-name="TVN (Problema)" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="Canales Nacionales 2", TVN (Problema)
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
