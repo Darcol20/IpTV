@@ -263,3 +263,24 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Revisar Grupo" , VC Online
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Revisar Grupo" , Bhtv 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Revisar Grupo" , Televida HD 
+https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Canal 2 San Antonio" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Nacional" , Canal 2 San Antonio 
+http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="UTV San Clemente" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Nacional" , UTV San Clemente 
+http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Nacional" , AM Canal 
+https://v2.tustreaming.cl/amtv/live1/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Revisar Grupo" , Gracia TV 
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Tendencias TV" tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Nacional" , Tendencias TV 
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
