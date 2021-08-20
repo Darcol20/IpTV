@@ -338,3 +338,6 @@ https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCH
 
 #EXTINF:-1 tvg-id="9" tvg-name="Zee Mundo - India" tvg-logo="https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_400x400.jpg" group-title="Internacional" , Zee Mundo - India
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix " tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música" , Portal Foxmix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
