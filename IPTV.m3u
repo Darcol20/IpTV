@@ -261,7 +261,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música" , VC Online
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional" , Bhtv - Perú
+#EXTINF:-1 tvg-id="9" tvg-name="Bhtv - Perú" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional" , Bhtv - Perú
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso" , Televida HD 
@@ -324,7 +324,7 @@ https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Canal 26 - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/600px-LogoCanal26.png" group-title="Internacional" , Canal 26 - Argentina
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w715818710_b2628000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Garage TV - Argentina" tvg-logo="https://scontent.fscl30-1.fna.fbcdn.net/v/t1.6435-1/p200x200/180478607_3550769685026981_8419697397654776298_n.png" group-title="Internacional" , Garage TV - Argentina
+#EXTINF:-1 tvg-id="9" tvg-name="Garage TV - Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="Internacional" , Garage TV - Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Ruido TV" tvg-logo="http://logo.vconline.cl/ruidosfm.png" group-title="Música" , Ruido TV 
@@ -335,3 +335,6 @@ https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="TeleAngol Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/220px-Teleton_Chile_Logo.svg.png" group-title="Nacional" , Teletón TV 
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCHILEIPTVCL
+
+#EXTINF:-1 tvg-id="9" tvg-name="Zee Mundo - India" tvg-logo="https://es.wikipedia.org/wiki/Zee_Mundo#/media/Archivo:Zee_Mundo_2018.png" group-title="Revisar Grupo" , Zee Mundo - India
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
