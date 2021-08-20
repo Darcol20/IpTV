@@ -267,10 +267,10 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso" , Televida HD 
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Canal 2 San Antonio" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Nacional" , Canal 2 San Antonio 
+#EXTINF:-1 tvg-id="9" tvg-name="Canal 2 San Antonio" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Nacional" , Canal 2
 http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="UTV San Clemente" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Nacional" , UTV San Clemente 
+#EXTINF:-1 tvg-id="9" tvg-name="UTV San Clemente" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Nacional" , UTV
 http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Nacional" , AM Canal 
@@ -297,5 +297,14 @@ http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Nacional" , Campo Abierto 
 http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Futuro TV" tvg-logo="https://www.vtr.com/file/general/518993137.png" group-title="Música" , Futuro TV
+#EXTINF:-1 tvg-id="9" tvg-name="Futuro" tvg-logo="https://www.vtr.com/file/general/518993137.png" group-title="Música" , Futuro
 http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Fm Tiempo" tvg-logo="https://www.vtr.com/file/general/518993144.png" group-title="Música" , Fm Tiempo 
+https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Alegría Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701145951.jpg" group-title="Música" , Alegría Tv 
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Arirang News - Korea" tvg-logo="http://chileiptv.cl/img/logos/logo_15701154201.jpg" group-title="Noticias" , Arirang News - Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
