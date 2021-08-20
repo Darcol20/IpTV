@@ -323,3 +323,15 @@ https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Canal 26 - Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/600px-LogoCanal26.png" group-title="Internacional" , Canal 26 - Argentina
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w715818710_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Garage TV - Argentina" tvg-logo="https://scontent.fscl30-1.fna.fbcdn.net/v/t1.6435-1/p200x200/180478607_3550769685026981_8419697397654776298_n.png" group-title="Internacional" , Garage TV - Argentina
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Ruido TV" tvg-logo="http://logo.vconline.cl/ruidosfm.png" group-title="Música" , Ruido TV 
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TeleAngol Radio" tvg-logo="https://static-media.streema.com/media/cache/cf/57/cf57a6c86857547ad50b5cd031a35844.jpg" group-title="Música" , TeleAngol Radio 
+https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TeleAngol Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/220px-Teleton_Chile_Logo.svg.png" group-title="Nacional" , Teletón TV 
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCHILEIPTVCL
