@@ -228,16 +228,16 @@ http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 #EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Nacional" , Antofagasta TV 
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Revisar Grupo" , Ues TV 
+#EXTINF:-1 tvg-id="9" tvg-name="Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Nacional" , Ues TV 
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Nacional" , Pingüino TV 
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Revisar Grupo" , Carolina TV 
+#EXTINF:-1 tvg-id="9" tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Música" , Carolina TV 
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Revisar Grupo" , TVU Concepción 
+#EXTINF:-1 tvg-id="9" tvg-name="TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Nacional" , TVU Concepción 
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="RT - España" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Internacional" , RT - España
@@ -246,11 +246,8 @@ https://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Genial Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1521688260.jpg" group-title="Revisar Grupo" , Genial Tv 
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Revisar Grupo" , MusicTop
+#EXTINF:-1 tvg-id="9" tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Música" , MusicTop
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="CGTN Español" tvg-logo="http://chileiptv.cl/img/logos/file_1522636293.png" group-title="Revisar Grupo" , CGTN Español 
-https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="RedBull TV" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Deporte" , RedBull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -258,16 +255,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="IPe - Perú" tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Internacional" , IPe - Perú
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="ExtremaTv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Revisar Grupo" , ExtremaTv 
+#EXTINF:-1 tvg-id="9" tvg-name="Extrema Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Religioso" , Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Revisar Grupo" , VC Online
+#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música" , VC Online
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Revisar Grupo" , Bhtv 
+#EXTINF:-1 tvg-id="9" tvg-name="Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional" , Bhtv - Perú
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Revisar Grupo" , Televida HD 
+#EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso" , Televida HD 
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Canal 2 San Antonio" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Nacional" , Canal 2 San Antonio 
@@ -279,8 +276,26 @@ http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Nacional" , AM Canal 
 https://v2.tustreaming.cl/amtv/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Revisar Grupo" , Gracia TV 
+#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Religioso" , Gracia TV 
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Tendencias TV" tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Nacional" , Tendencias TV 
 https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Máxima FM" tvg-logo="http://chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Música" , Máxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Cappissima" tvg-logo="http://chileiptv.cl/img/logos/logo_15701136081.png" group-title="Nacional" , Cappissima
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Ñuble Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Nacional" , Ñuble Tv 
+http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TecTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Nacional" , TecTV  
+http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Nacional" , Campo Abierto 
+http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Futuro TV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701145051.svg" group-title="Música" , Futuro TV
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
