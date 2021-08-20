@@ -308,3 +308,6 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Arirang News - Korea" tvg-logo="http://chileiptv.cl/img/logos/logo_15701154201.jpg" group-title="Noticias" , Arirang News - Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TeleMax - Argentina" tvg-logo="http://chileiptv.cl/img/logos/logo_15701164501.jpg" group-title="Internacional" , TeleMax - Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
