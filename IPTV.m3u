@@ -243,9 +243,6 @@ http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="RT - España" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Internacional" , RT - España
 https://rt-esp.secure.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Genial Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1521688260.jpg" group-title="Revisar Grupo" , Genial Tv 
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="9" tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Música" , MusicTop
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
