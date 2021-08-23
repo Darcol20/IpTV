@@ -150,7 +150,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Nick Jr" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nick Jr_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Nickelodeon" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nickelodeon_SINPROBAR
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nickelodeon_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="254" tvg-name="Tooncast **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Tooncast **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
@@ -173,7 +173,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Zona Latina" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Música", Zona Latina_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="Cámada de diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de diputados
+#EXTINF:-1 tvg-name="Cámada de diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional",
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
@@ -181,7 +181,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Chilevisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional", La Red
+#EXTINF:-1 tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional",
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="Mega +" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Mega +_SINPROBAR
@@ -189,19 +189,19 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Megavisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Megavisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Telecanal" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Telecanal
+#EXTINF:-1 tvg-name="Telecanal" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional",
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="TV +" tvg-logo="https://www.vtr.com/file/general/518992871.png" group-title="Nacional", TV +
+#EXTINF:-1 tvg-name="TV +" tvg-logo="https://www.vtr.com/file/general/518992871.png" group-title="Nacional",
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-name="TV Senado" tvg-logo="https://www.vtr.com/file/general/518993220.png" group-title="Nacional", TV Senado
+#EXTINF:-1 tvg-name="TV Senado" tvg-logo="https://www.vtr.com/file/general/518993220.png" group-title="Nacional",
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="TVN" tvg-logo="https://www.vtr.com/file/general/518970317.png" group-title="Nacional", TVN
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://www.vtr.com/file/general/518970317.png" group-title="Nacional",
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Nacional", UCV
+#EXTINF:-1 tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Nacional",
 https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", 24 Horas_SINPROBAR
@@ -211,7 +211,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="CNN Chile" tvg-logo="https://www.vtr.com/file/general/519007859.png" group-title="Noticias", CNN Chile
+#EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://www.vtr.com/file/general/519007859.png" group-title="Noticias",
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-name="CNN En Español" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN En Español_SINPROBAR
@@ -219,125 +219,125 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="372" tvg-name="Fox News Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", Fox News Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="372" tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Noticias" , CBS News 
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Noticias",
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Bío-Bío - Canal 9" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Regional" , Bío-Bío - Canal 9
+#EXTINF:-1 tvg-name="Bío-Bío - Canal 9" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Regional",
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
-#EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Regional" , Antofagasta TV 
+#EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Regional",
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Santiago - Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Regional" , Santiago - Ues TV
+#EXTINF:-1 tvg-name="Santiago - Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Regional",
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Punta Arenas - Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Regional" , Punta Arenas - Pingüino TV
+#EXTINF:-1 tvg-name="Punta Arenas - Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Regional",
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Música" , Carolina TV 
+#EXTINF:-1 tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Música",
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Concepción - TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Regional" , Concepción - TVU Concepción
+#EXTINF:-1 tvg-name="Concepción - TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Regional",
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="España - RT" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Internacional" , España - RT
+#EXTINF:-1 tvg-name="España - RT" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Internacional",
 https://rt-esp.secure.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Música" , MusicTop
+#EXTINF:-1 tvg-name="MusicTop" tvg-logo="http://chileiptv.cl/img/logos/file_1521987090.png" group-title="Música",
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="RedBull TV" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Deporte" , RedBull TV 
+#EXTINF:-1 tvg-name="RedBull TV" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Deporte",
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Perú - IPe" tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Internacional" , Perú - IPe
+#EXTINF:-1 tvg-name="Perú - IPe" tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Internacional",
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Extrema Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Religioso" , Extrema TV
+#EXTINF:-1 tvg-name="Extrema Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Religioso",
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música" , VC Online
+#EXTINF:-1 tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música",
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Perú - Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional" , Perú - Bhtv
+#EXTINF:-1 tvg-name="Perú - Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional",
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso" , Televida HD 
+#EXTINF:-1 tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso",
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="San Antonio - Canal 2" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Regional" , San Antonio - Canal 2
+#EXTINF:-1 tvg-name="San Antonio - Canal 2" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Regional",
 http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="San Clemente - UTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Regional" , San Clemente - UTV
+#EXTINF:-1 tvg-name="San Clemente - UTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Regional",
 http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Antofagasta - AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Regional" , Antofagasta - AM Canal
+#EXTINF:-1 tvg-name="Antofagasta - AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Regional",
 https://v2.tustreaming.cl/amtv/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Religioso" , Gracia TV 
+#EXTINF:-1 tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Religioso",
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Máxima FM" tvg-logo="http://chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Música" , Máxima FM
+#EXTINF:-1 tvg-name="Máxima FM" tvg-logo="http://chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Música",
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Arica - Cappissima" tvg-logo="http://chileiptv.cl/img/logos/logo_15701136081.png" group-title="Regional" , Arica - Cappissima
+#EXTINF:-1 tvg-name="Arica - Cappissima" tvg-logo="http://chileiptv.cl/img/logos/logo_15701136081.png" group-title="Regional",
 http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Ñuble - Ñuble Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Regional" , Ñuble - Ñuble Tv
+#EXTINF:-1 tvg-name="Ñuble - Ñuble Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Regional",
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="TecTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Nacional" , TecTV  
+#EXTINF:-1 tvg-name="TecTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Nacional",
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Santiago - Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Regional" , Santiago - Campo Abierto
+#EXTINF:-1 tvg-name="Santiago - Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Regional",
 http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Futuro" tvg-logo="https://www.vtr.com/file/general/518993137.png" group-title="Música" , Futuro
+#EXTINF:-1 tvg-name="Futuro" tvg-logo="https://www.vtr.com/file/general/518993137.png" group-title="Música",
 http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Fm Tiempo" tvg-logo="https://www.vtr.com/file/general/518993144.png" group-title="Música" , Fm Tiempo 
+#EXTINF:-1 tvg-name="Fm Tiempo" tvg-logo="https://www.vtr.com/file/general/518993144.png" group-title="Música",
 https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Alegría Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701145951.jpg" group-title="Música" , Alegría Tv 
+#EXTINF:-1 tvg-name="Alegría Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701145951.jpg" group-title="Música",
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Arirang News - Korea" tvg-logo="http://chileiptv.cl/img/logos/logo_15701154201.jpg" group-title="Noticias" , Arirang News - Korea
+#EXTINF:-1 tvg-name="Arirang News - Korea" tvg-logo="http://chileiptv.cl/img/logos/logo_15701154201.jpg" group-title="Noticias",
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Argentina - TeleMax" tvg-logo="http://chileiptv.cl/img/logos/logo_15701164501.jpg" group-title="Internacional" , Argentina - TeleMax
+#EXTINF:-1 tvg-name="Argentina - TeleMax" tvg-logo="http://chileiptv.cl/img/logos/logo_15701164501.jpg" group-title="Internacional",
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="España - 24 Horas" tvg-logo="http://chileiptv.cl/img/logos/logo_15701167871.jpg" group-title="Internacional" , España - 24 Horas
+#EXTINF:-1 tvg-name="España - 24 Horas" tvg-logo="http://chileiptv.cl/img/logos/logo_15701167871.jpg" group-title="Internacional",
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1 tvg-id="9" tvg-name="Venezuela - Telesur" tvg-logo="http://chileiptv.cl/img/logos/logo_15701169301.png" group-title="Internacional" , Venezuela - Telesur
+#EXTINF:-1 tvg-name="Venezuela - Telesur" tvg-logo="http://chileiptv.cl/img/logos/logo_15701169301.png" group-title="Internacional",
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Radio Agricultura" tvg-logo="http://chileiptv.cl/img/logos/logo_15701170151.png" group-title="Música" , Radio Agricultura 
+#EXTINF:-1 tvg-name="Radio Agricultura" tvg-logo="http://chileiptv.cl/img/logos/logo_15701170151.png" group-title="Música",
 https://unlimited1-cl.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Argentina - Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/600px-LogoCanal26.png" group-title="Internacional" , Argentina - Canal 26
+#EXTINF:-1 tvg-name="Argentina - Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/600px-LogoCanal26.png" group-title="Internacional",
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w715818710_b2628000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Argentina - Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="Internacional" , Argentina - Garage TV
+#EXTINF:-1 tvg-name="Argentina - Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" group-title="Internacional",
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Ruido TV" tvg-logo="http://logo.vconline.cl/ruidosfm.png" group-title="Música" , Ruido TV 
+#EXTINF:-1 tvg-name="Ruido TV" tvg-logo="http://logo.vconline.cl/ruidosfm.png" group-title="Música",
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="TeleAngol Radio" tvg-logo="https://static-media.streema.com/media/cache/cf/57/cf57a6c86857547ad50b5cd031a35844.jpg" group-title="Música" , TeleAngol Radio 
+#EXTINF:-1 tvg-name="TeleAngol Radio" tvg-logo="https://static-media.streema.com/media/cache/cf/57/cf57a6c86857547ad50b5cd031a35844.jpg" group-title="Música",
 https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="TeleAngol Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/220px-Teleton_Chile_Logo.svg.png" group-title="Nacional" , Teletón TV 
+#EXTINF:-1 tvg-name="TeleAngol Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Teleton_Chile_Logo.svg/220px-Teleton_Chile_Logo.svg.png" group-title="Nacional",
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCHILEIPTVCL
 
-#EXTINF:-1 tvg-id="9" tvg-name="India - Zee Mundo" tvg-logo="https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_400x400.jpg" group-title="Internacional" , India - Zee Mundo
+#EXTINF:-1 tvg-name="India - Zee Mundo" tvg-logo="https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_400x400.jpg" group-title="Internacional",
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música" , Portal Foxmix 
+#EXTINF:-1 tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música",
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Tv Educa Chile " tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Nacional" , Tv Educa Chile 
+#EXTINF:-1 tvg-name="Tv Educa Chile " tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Nacional",
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1 tvg-name="24 Horas FHD (CL)" tvg-logo="http://img.tvcl.xyz/noticias/24h.png" group-title="Noticias",
+#EXTINF:-1 tvg-name="24 Horas FHD (CL)" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
