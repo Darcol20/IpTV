@@ -192,8 +192,8 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Telecanal" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="TV +" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", TV +
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="TV +" tvg-logo="https://www.vtr.com/file/general/518992871.png" group-title="Nacional", TV +
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF:-1 tvg-id="72" tvg-name="TV Senado" tvg-logo="https://www.vtr.com/file/general/518993220.png" group-title="Nacional", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
