@@ -336,8 +336,5 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música",
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Tv Educa Chile " tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Nacional",
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-
 #EXTINF:-1 tvg-name="24 Horas FHD (CL)" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
