@@ -228,7 +228,7 @@ http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 #EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Regional" , Antofagasta TV 
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Nacional" , Ues TV 
+#EXTINF:-1 tvg-id="9" tvg-name="Santiago - Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Regional" , Santiago - Ues TV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Punta Arenas - Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Regional" , Punta Arenas - Pingüino TV
@@ -276,9 +276,6 @@ https://v2.tustreaming.cl/amtv/live1/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Religioso" , Gracia TV 
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Tendencias TV" tvg-logo="http://chileiptv.cl/img/logos/logo_15220774751.png" group-title="Nacional" , Tendencias TV 
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
-
 #EXTINF:-1 tvg-id="9" tvg-name="Máxima FM" tvg-logo="http://chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Música" , Máxima FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
@@ -291,7 +288,7 @@ http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="TecTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Nacional" , TecTV  
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Santiago - Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Nacional" , Santiago - Campo Abierto
+#EXTINF:-1 tvg-id="9" tvg-name="Santiago - Campo Abierto" tvg-logo="http://chileiptv.cl/img/logos/logo_15701144261.jpg" group-title="Regional" , Santiago - Campo Abierto
 http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Futuro" tvg-logo="https://www.vtr.com/file/general/518993137.png" group-title="Música" , Futuro
@@ -336,8 +333,11 @@ https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCH
 #EXTINF:-1 tvg-id="9" tvg-name="India - Zee Mundo" tvg-logo="https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_400x400.jpg" group-title="Internacional" , India - Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix " tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música" , Portal Foxmix 
+#EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música" , Portal Foxmix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Tv Educa Chile " tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png" group-title="Nacional" , Tv Educa Chile 
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas FHD (CL)" tvg-logo="http://img.tvcl.xyz/noticias/24h.png" group-title="Noticias",24 Horas
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
