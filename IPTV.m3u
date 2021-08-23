@@ -222,22 +222,22 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="372" tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Noticias" , CBS News 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Canal 9 Bio-Bio" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Regionales" , Canal 9 Bío Bío 
+#EXTINF:-1 tvg-id="9" tvg-name="Canal 9 Bio-Bio" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Regional" , Canal 9 Bío Bío 
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
-#EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Regionales" , Antofagasta TV 
+#EXTINF:-1 id="16" tvg-name="Antofagasta TV" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png" group-title="Regional" , Antofagasta TV 
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Ues TV" tvg-logo="http://chileiptv.cl/img/logos/file_1492012878.png" group-title="Nacional" , Ues TV 
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Regionales" , Pingüino TV 
+#EXTINF:-1 tvg-id="9" tvg-name="Pingüino TV" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png" group-title="Regional" , Pingüino TV 
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Carolina TV" tvg-logo="http://chileiptv.cl/img/logos/file_1501346918.png" group-title="Música" , Carolina TV 
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Regionales" , TVU Concepción 
+#EXTINF:-1 tvg-id="9" tvg-name="TVU Concepción" tvg-logo="http://chileiptv.cl/img/logos/file_1517079635.png" group-title="Regional" , TVU Concepción 
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="España - RT" tvg-logo="http://chileiptv.cl/img/logos/file_1521601710.png" group-title="Internacional" , España - RT
@@ -264,13 +264,13 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Televida HD" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="Religioso" , Televida HD 
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Canal 2 San Antonio" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Nacional" , Canal 2
+#EXTINF:-1 tvg-id="9" tvg-name="San Antonio - Canal 2" tvg-logo="http://chileiptv.cl/img/logos/logo_15006981861.jpg" group-title="Regional" , San Antonio - Canal 2
 http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="UTV San Clemente" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Nacional" , UTV
+#EXTINF:-1 tvg-id="9" tvg-name="San Clemente - UTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15165759901.jpg" group-title="Regional" , San Clemente - UTV
 http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Nacional" , AM Canal 
+#EXTINF:-1 tvg-id="9" tvg-name="Antofagasta - AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15165766651.jpg" group-title="Regional" , Antofagasta - AM Canal
 https://v2.tustreaming.cl/amtv/live1/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="AM Canal" tvg-logo="http://chileiptv.cl/img/logos/logo_15208845541.jpg" group-title="Religioso" , Gracia TV 
@@ -282,10 +282,10 @@ https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Máxima FM" tvg-logo="http://chileiptv.cl/img/logos/logo_15695007791.jpg" group-title="Música" , Máxima FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Cappissima" tvg-logo="http://chileiptv.cl/img/logos/logo_15701136081.png" group-title="Nacional" , Cappissima
+#EXTINF:-1 tvg-id="9" tvg-name="Arica - Cappissima" tvg-logo="http://chileiptv.cl/img/logos/logo_15701136081.png" group-title="Nacional" , Arica - Cappissima
 http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Ñuble Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Nacional" , Ñuble Tv 
+#EXTINF:-1 tvg-id="9" tvg-name="Ñuble Tv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="Regional" , Ñuble Tv 
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="TecTV" tvg-logo="http://chileiptv.cl/img/logos/logo_15701138481.jpg" group-title="Nacional" , TecTV  
