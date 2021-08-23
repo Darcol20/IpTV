@@ -338,3 +338,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix " tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música" , Portal Foxmix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas FHD (CL)" tvg-logo="http://img.tvcl.xyz/noticias/24h.png" group-title="Noticias",24 Horas
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
