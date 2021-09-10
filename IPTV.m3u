@@ -204,8 +204,8 @@ https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCV" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Nacional",
 https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", 24 Horas_SINPROBAR
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
 #EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", BBC World News_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
