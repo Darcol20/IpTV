@@ -173,7 +173,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Zona Latina" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Música", Zona Latina_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cámada de Diputados" tvg-name="Cámada de Diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de Diputados
+#EXTINF:-1 tvg-id="Cámada de Diputados" tvg-name="Cámada de Diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional",
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
@@ -252,10 +252,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Perú - IPe" tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Internacional" , Perú - IPe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Extrema Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Religioso" , Extrema TV
+#EXTINF:-1 tvg-id="9" tvg-name="Extrema Tv" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Religioso", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música" , VC Online
+#EXTINF:-1 tvg-id="9" tvg-name="VC Online" tvg-logo="http://chileiptv.cl/img/logos/file_1532830938.png" group-title="Música" ,
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Perú - Bhtv" tvg-logo="http://chileiptv.cl/img/logos/file_1585580391.png" group-title="Internacional",
@@ -335,7 +335,3 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música",
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
-
-
-#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Deportes",TNT Sports FHD (CL)
-http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34676
