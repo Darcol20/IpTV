@@ -64,8 +64,6 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="WB" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cine & Series", WB_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="13 Cable" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", 13 Cable_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="Animal Planet" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Animal Planet_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="Artv" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Artv_SINPROBAR
@@ -144,8 +142,6 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Disney XD" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Disney XD_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="ETC TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", ETC TV_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Nat Geo Kids" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nat Geo Kids_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Nick Jr" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil", Nick Jr_SINPROBAR
@@ -172,15 +168,9 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Zona Latina" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Música", Zona Latina_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Canal 13_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Chilevisión_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="372" tvg-name="Fox News Channel" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", Fox News Channel_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Mega +" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Mega +_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Megavisión" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Nacional", Megavisión_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="CNN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", CNN_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
@@ -196,16 +186,10 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="https://www.vtr.com/file/general/518993220.png" group-title="Nacional",
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://www.vtr.com/file/general/518970317.png" group-title="Nacional",
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCV" tvg-name="UCV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Nacional",
 https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias",
-http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
 #EXTINF:-1 tvg-id="CNN Chile" tvg-name="CNN Chile" tvg-logo="https://www.vtr.com/file/general/519007859.png" group-title="Noticias",
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN En Español" tvg-name="CNN En Español" tvg-logo="https://www.vtr.com/file/general/518969660.png" group-title="Noticias",
-http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35181
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="http://chileiptv.cl/img/logos/file_1521496967.png" group-title="Noticias",
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="Bío-Bío - Canal 9" tvg-name="Bío-Bío - Canal 9" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png" group-title="Regional",
@@ -284,3 +268,23 @@ https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistCH
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Portal Foxmix" tvg-name="Portal Foxmix" tvg-logo="http://chileiptv.cl/img/logos/logo_15701162361.jpg" group-title="Música",
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
+
+#Chuko
+#EXTINF:-1 tvg-id="Megavisión" tvg-name="Megavisión" tvg-logo="https://www.vtr.com/file/general/518970308.png" group-title="Nacional",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35299
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/158787
+#EXTINF:-1 tvg-id="CNN En Español" tvg-name="CNN En Español" tvg-logo="https://www.vtr.com/file/general/518969660.png" group-title="Noticias",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35181
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://www.vtr.com/file/general/518774546.png" group-title="Nacional",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35305
+#EXTINF:-1 tvg-id="Chilevisión" tvg-name="Chilevisión" tvg-logo="https://www.vtr.com/file/general/518970302.png" group-title="Nacional",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35302
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://www.vtr.com/file/general/518993218.png" group-title="Infantil",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34798
+#EXTINF:-1 tvg-id="13 Cable" tvg-name="13 Cable" tvg-logo="https://www.vtr.com/file/general/518993217.png" group-title="Cultural",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35312
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://www.vtr.com/file/general/518970317.png" group-title="Nacional",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35296
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34798
