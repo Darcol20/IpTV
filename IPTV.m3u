@@ -86,20 +86,6 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="211" tvg-name="Tru TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Cultural", Tru TV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="ESPN" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="ESPN2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN2_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="ESPN3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", ESPN3_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="Fox Sport" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="Fox Sport1" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport1_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="Fox Sport2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport2_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="Fox Sport3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Fox Sport3_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="GOLTV **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", GOLTV **_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="Teletrak TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Teletrak TV_SINPROBAR
@@ -288,7 +274,19 @@ http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34798
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/47913
 #EXTINF:-1 tvg-id="TNT Sport HD" tvg-name="TNT Sport HD" tvg-logo="https://www.vtr.com/file/general/519015170.png" group-title="Deporte",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34676
-#EXTINF:-1 tvg-id="165" tvg-name="TNT Sport2" tvg-logo="https://www.vtr.com/file/general/518992474.png" group-title="Deporte",
+#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT Sport 2" tvg-logo="https://www.vtr.com/file/general/518992474.png" group-title="Deporte",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34674
-#EXTINF:-1 tvg-id="46" tvg-name="TNT Sport3" tvg-logo="https://www.vtr.com/file/general/518996442.png" group-title="Deporte",
+#EXTINF:-1 tvg-id="TNT Sport 3" tvg-name="TNT Sport 3" tvg-logo="https://www.vtr.com/file/general/518996442.png" group-title="Deporte",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/123887
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://www.vtr.com/file/general/518970305.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/123652
+#EXTINF:-1 tvg-id="48" tvg-name="ESPN 2" tvg-logo="https://www.vtr.com/file/general/519002459.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/123653
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://www.vtr.com/file/general/519019673.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/123654
+#EXTINF:-1 tvg-id="Fox Sport 1" tvg-name="Fox Sport 1" tvg-logo="https://www.vtr.com/file/general/559211.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34632
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://www.vtr.com/file/general/547360.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34635
+#EXTINF:-1 tvg-id="Fox Sport 3" tvg-name="Fox Sport 3" tvg-logo="https://www.vtr.com/file/general/518993107.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34626    
