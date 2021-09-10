@@ -104,12 +104,6 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="Teletrak TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Teletrak TV_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="855" tvg-name="TNT Sport" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="TNT Sport2" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport2_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="TNT Sport3" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TNT Sport3_SINPROBAR
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="210" tvg-name="Turbo" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", Turbo_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="TyC Sports **" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Deporte", TyC Sports **_SINPROBAR
@@ -176,6 +170,8 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="BBC World News" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Noticias", BBC World News_SINPROBAR
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
+
+#Listos
 #EXTINF:-1 tvg-id="Cámada de Diputados" tvg-name="Cámada de Diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional",
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional",
@@ -288,3 +284,11 @@ http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35312
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35296
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://www.vtr.com/file/general/518992875.png" group-title="Infantil",
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34798
+#EXTINF:-1 tvg-id="TV Educa Chile" tvg-name="TV Educa Chile" tvg-logo="https://www.vtr.com/file/general/599572.png" group-title="Nacional",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/47913
+#EXTINF:-1 tvg-id="TNT Sport HD" tvg-name="TNT Sport HD" tvg-logo="https://www.vtr.com/file/general/519015170.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34676
+#EXTINF:-1 tvg-id="165" tvg-name="TNT Sport2" tvg-logo="https://www.vtr.com/file/general/518992474.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/34674
+#EXTINF:-1 tvg-id="46" tvg-name="TNT Sport3" tvg-logo="https://www.vtr.com/file/general/518996442.png" group-title="Deporte",
+http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/123887
