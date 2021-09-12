@@ -158,6 +158,7 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 
 #Listos
+
 #EXTINF:-1 tvg-id="Cámada de Diputados" tvg-name="Cámada de Diputados" tvg-logo="https://www.vtr.com/file/general/518993221.png" group-title="Nacional", Cámada de Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red" tvg-logo="https://www.vtr.com/file/general/518976387.png" group-title="Nacional", La Red
@@ -252,6 +253,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w503500423.m3u8
 
 #Chuko
+
 #EXTINF:-1 tvg-id="Megavisión" tvg-name="Megavisión" tvg-logo="https://www.vtr.com/file/general/518970308.png" group-title="Nacional", Megavisión
 http://tvla.xyz:80/ivbiqvof/Jri7d96Ml5/35299
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://www.vtr.com/file/general/519008704.png" group-title="Noticias", 24 Horas
